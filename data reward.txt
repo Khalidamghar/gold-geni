@@ -14,13 +14,13 @@
 		"cpa_image": "https://iili.io/J2qrL37.jpg",
 		"cpa_title": "STANDOFF 2 GOLD HACK",
 		"cpa_sous_title": "Go Boost Your Gold Balance",
-		"cpa_url": "https://play.google.com/store/apps/details?id=com.shootingfreestandoff.gamesgoldgift&hl=ru&gl=ru",
+		"cpa_url": "https://generatorgold2.blogspot.com/",
 		"show_cpa":true,
 
 		"cpa_popup_image": "https://iili.io/J2qrL37.jpg",
 		"cpa_popup_title": "STANDOFF 2 GOLD HACK",
 		"cpa_popup_sous_title": "Go Boost Your Gold Balance",
-		"cpa_popup_url": "https://play.google.com/store/apps/details?id=com.shootingfreestandoff.gamesgoldgift&hl=ru&gl=ru",
+		"cpa_popup_url": "https://generatorgold2.blogspot.com/",
 		"cpa_popup_timer":10,
 
 		"interstitial_yandex": "R-M-2294832-3",
